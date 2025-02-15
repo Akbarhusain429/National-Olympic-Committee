@@ -1,14 +1,17 @@
-National Olympic Committee Dashboard
+# National Olympic Committee Dashboard:-
 
-Overview:
+# Overview:
 
-Tableau Public: https://public.tableau.com/app/profile/akbarhusain.chaudhary/viz/OlympicNOC/OlympicDashboard
+# Tableau Public: 
+https://public.tableau.com/app/profile/akbarhusain.chaudhary/viz/OlympicNOC/OlympicDashboard
 
 
-Discription:
+
+# Discription:
 
 ---->>
 KPIs:
+
 Displays total medals, gold, silver, and bronze medals, along with the total number of athletes and sports.
 Gender Analysis
 
@@ -20,7 +23,7 @@ A table details medal distribution across genders.
 
 
 ---->>
-Age Distribution with Events & Medals
+Age Distribution with Events & Medals:
 
 A bar chart visualizes the age distribution of athletes across different events.
 
